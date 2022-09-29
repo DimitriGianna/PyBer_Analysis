@@ -6,7 +6,7 @@ This analysis examined data collected by PyBer, a Python based ride-sharing app 
 ## Results
 A summary dataframe was generated which shows that rural locations have the lowest total fares but the highest average fares per ride and per driver. Urban areas on the other hand have the highest total faires and the lowest average fares per ride adn per driver.
 
-[![name]([)](https://github.com/DimitriGianna/PyBer_Analysis/blob/main/Analysis/Ride_Summary.png?raw=true)
+https://github.com/DimitriGianna/PyBer_Analysis/blob/main/Analysis/Ride_Summary.png?raw=true![image](https://user-images.githubusercontent.com/112590378/192911174-f327b4c5-8606-46d0-b8dc-2cf4c51b97a4.png)
 
 
 A line graph for the showing the total fare over the first four months of the year by city type was generated. The graph shows that the total fare generated  by urban areas was consistently higher than suburban and rural areas. 
