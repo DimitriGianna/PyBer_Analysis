@@ -10,8 +10,7 @@ A summary dataframe was generated which shows that rural locations have the lowe
 
 A line graph for the showing the total fare over the first four months of the year by city type was generated. The graph shows that the total fare generated  by urban areas was consistently higher than suburban and rural areas. 
 
-![image_name(https://github.com/DimitriGianna/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png?raw=true)
-
+![image_name](https://github.com/DimitriGianna/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png?raw=true)
 ## Summary
 There are a few recommendations for the CEO to consider in potentially increase revenue:
 1. Extend the length of the study to look at the entire year to get a more accurate report of yearly rideshare users.
